@@ -1,0 +1,6 @@
+{
+  "name": "DeRote — Student Self-Discovery & Support",
+  "description": "A student self-discovery and support platform for students in Classes 8–12 to understand their interests, learning, motivation, and future paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
